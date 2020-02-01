@@ -7,3 +7,7 @@ So, with the help of https://play.google.com/store/apps/details?id=com.remotefai
 Note: all the buttons are hardcoded with the x and y cords to simulate a touch tap. 
 
 Might update this to utilize IR Diodes whenever i get around to order new ones. 
+
+![alt text][image]
+
+[image]: https://github.com/BoSen29/UDTVRemote/blob/master/image.png "Dashboard in action"
